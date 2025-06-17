@@ -1,12 +1,12 @@
-#SellPharma : Une application Java qui va permettre à une pharmacie de la place se veut 
+SellPharma : Une application Java qui va permettre à une pharmacie de la place se veut 
 digitaliser ses ventes de produits de faire des ventes de produits et d'afficher 
 les factures avec les différents montants et différentes autres taxes.
 
 
-#Contexte #du #projet
+Contexte du projet
 Pour cette mission, les fonctionnalités demandées sont les suivantes:
 
-#Vente #de #produit
+Vente de produit
 
 1- Demander à utilisateur de saisir le nom d'un produit qu'il aimerait vendre;
 
